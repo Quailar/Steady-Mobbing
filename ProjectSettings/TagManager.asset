@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GAMEDATA
+  - Neighborhood
+  - ResidentialBuilding
+  - CommercialBuilding
+  - IndustrialBuilding
+  - BuildingEntrance
+  - ResidentialZone
+  - CommercialZone
+  - IndustrialZone
+  - Unit
+  - SideWalkTag
+  - RoadTag
+  - CrossWalkTag
+  - MapStartNode
+  - MapEndNode
+  - Grid_System
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - Clickable_Layer
+  - Walkable_Layer
+  - Unwalkable_Layer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
